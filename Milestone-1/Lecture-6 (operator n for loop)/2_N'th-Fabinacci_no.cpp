@@ -27,6 +27,7 @@ So by using the property of the Fibonacci series i.e
 [ 1, 1, 2, 3, 5, 8, 13, 21]
 So the “6th” element is “8” hence we get the output.
 */
+
 #include <iostream>
 using namespace std;
 
@@ -44,4 +45,4 @@ int main()
 		n2 = fn;
 	cout << fn<< ", ";
 	}
-}
+} 
